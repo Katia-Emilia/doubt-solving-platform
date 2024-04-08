@@ -11,6 +11,8 @@ Once they have logged in the user can ask a question, answer a question or view 
 - MySQL 5.7.31
 - MySQL connector
 
-
+### Output:
+![image](https://github.com/Katia-Emilia/doubt-solving-platform/assets/105586454/6374c133-6c13-4973-9326-fe38ef39718c)\
+![image](https://github.com/Katia-Emilia/doubt-solving-platform/assets/105586454/fb1d9192-aeff-4004-8ad5-91dd07bf3bf7)
 
 
